@@ -1,7 +1,24 @@
-## Hi there 👋
+<h1>Hi, I'm Gurvinder <br/>
+
+<h2>👨‍💻 Cloud Computing Projects:</h2>
+
+- <b>AWS Cloud Resume Challegenge </b>
+  - [Praciting DS & Algos in Pyth](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b>Active Directory Lab using VMware and Windows Server 2012 </b>
+  - [Praciting DS & Algos in Pyth](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2>📜 Certification </h2>
+
+- [AWS Cloud Practitioner ](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CCNA R&S: Introduction to Networks Cisco](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [CCNA R&S: Routing and Switching Essentials Cisco](https://www.youtube.com/watch?v=N-L9hklSlNk)
+
+
 
 <!--
-**Gurvindersingh123/gurvindersingh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
