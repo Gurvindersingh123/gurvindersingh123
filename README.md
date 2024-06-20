@@ -12,8 +12,8 @@
 <h2>📜 Certification </h2>
 
 - [AWS Cloud Practitioner ](https://www.credly.com/badges/697047c4-1c17-42c3-8f56-e8a794cdd13e/linked_in?t=sf8f1i)
-- [CCNA R&S: Introduction to Networks Cisco]
-- [CCNA R&S: Routing and Switching Essentials Cisco]
+- CCNA R&S: Introduction to Networks Cisco
+- CCNA R&S: Routing and Switching Essentials Cisco
 
 
 
