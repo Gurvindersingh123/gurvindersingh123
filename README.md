@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cloud Computing Projects:</h2>
 
-- <b>AWS Cloud Resume Challegenge </b>
-  - [Praciting DS & Algos in Pyth](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>AWS Cloud Resume Challenge </b>
+  - [Cloud Resume Challenge](https://github.com/Gurvindersingh123/AWScloudResumeChallenge/tree/main)
 
 - <b>Active Directory Lab using VMware and Windows Server 2012 </b>
   - [Praciting DS & Algos in Pyth](https://github.com/joshmadakor1/Algorithms-Practice)
